@@ -1,0 +1,18 @@
+.cell {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 20px;  
+}
+
+.cell-empty {
+  background-color: grey;
+}
+
+.cell-red {
+  background-color: red;
+}
+
+.cell-blue {
+  background-color: blue;
+}
